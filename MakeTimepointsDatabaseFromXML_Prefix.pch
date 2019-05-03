@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MakeTimepointsDatabaseFromXML' target in the 'MakeTimepointsDatabaseFromXML' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

@@ -1,0 +1,237 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4CA0FBAE0FCF0DED00F488C2 /* MakeTimepointsDatabaseFromXML */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* MakeTimepointsDatabaseFromXML */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* MakeTimepointsDatabaseFromXML */,
+		);
+		breakpoints = (
+			4CA0FC040FCF4C7500F488C2 /* MakeTimepointsDatabaseFromXML.m:10 */,
+		);
+		codeSenseManager = 4CA0FBB50FCF0E0B00F488C2 /* Code sense */;
+		executables = (
+			4CA0FBAE0FCF0DED00F488C2 /* MakeTimepointsDatabaseFromXML */,
+		);
+		expressions = (
+			thing,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					405,
+					20,
+					199,
+					184,
+					35,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					238,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274984126;
+			PBXWorkspaceStateSaveDate = 274984126;
+		};
+		perUserProjectItems = {
+			4C6ADBE51043098300C40E3F /* PBXTextBookmark */ = 4C6ADBE51043098300C40E3F /* PBXTextBookmark */;
+			4CA0FF5B0FD5A3EB00F488C2 /* PBXTextBookmark */ = 4CA0FF5B0FD5A3EB00F488C2 /* PBXTextBookmark */;
+			4CF0013D10687C8100302A03 /* PBXTextBookmark */ = 4CF0013D10687C8100302A03 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4CA0FBB40FCF0E0B00F488C2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* MakeTimepointsDatabaseFromXML.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1242, 1508}}";
+			sepNavSelRange = "{2840, 0}";
+			sepNavVisRange = "{1403, 1706}";
+			sepNavWindowFrame = "{{7, 23}, {1169, 755}}";
+		};
+	};
+	4C6ADBE51043098300C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CA0FCD50FD1D24400F488C2 /* Timepoint.h */;
+		name = "Timepoint.h: 19";
+		rLen = 46;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 0;
+	};
+	4CA0FBAE0FCF0DED00F488C2 /* MakeTimepointsDatabaseFromXML */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			/Users/michael/Projects/SimpleBusTime/mybus2/doc.kml,
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MakeTimepointsDatabaseFromXML;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4CA0FBB40FCF0E0B00F488C2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4CA0FBB50FCF0E0B00F488C2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4CA0FC040FCF4C7500F488C2 /* MakeTimepointsDatabaseFromXML.m:10 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+			4CA0FC2A0FCF50CE00F488C2 /* XCBreakpointLogAction */,
+		);
+		breakpointStyle = 0;
+		condition = 4CA0FC2B0FCF50CE00F488C2 /* XCGDBBreakpointCondition */;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* MakeTimepointsDatabaseFromXML.m */;
+		functionName = "-parser:didStartElement:namespaceURI:qualifiedName:attributes:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 10;
+		location = MakeTimepointsDatabaseFromXML;
+		modificationTime = 275282732.068062;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	4CA0FC2A0FCF50CE00F488C2 /* XCBreakpointLogAction */ = {
+		isa = XCBreakpointLogAction;
+		expressions = (
+			elementName,
+		);
+		fallbackIsa = XCBreakpointAction;
+		logMessage = 1;
+		message = "%B: @elementName@";
+		speakMessage = 0;
+		useDebuggerSideImplementation = 0;
+	};
+	4CA0FC2B0FCF50CE00F488C2 /* XCGDBBreakpointCondition */ = {
+		isa = XCGDBBreakpointCondition;
+		conditionString = "";
+	};
+	4CA0FCD50FD1D24400F488C2 /* Timepoint.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {835, 619}}";
+			sepNavSelRange = "{302, 46}";
+			sepNavVisRange = "{0, 667}";
+			sepNavWindowFrame = "{{42, 5}, {894, 747}}";
+		};
+	};
+	4CA0FCD60FD1D24400F488C2 /* Timepoint.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {835, 619}}";
+			sepNavSelRange = "{1005, 0}";
+			sepNavVisRange = "{0, 1141}";
+			sepNavWindowFrame = "{{113, 31}, {894, 747}}";
+		};
+	};
+	4CA0FE480FD4491100F488C2 /* ArchiveHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1110, 627}}";
+			sepNavSelRange = "{377, 0}";
+			sepNavVisRange = "{0, 384}";
+			sepNavWindowFrame = "{{19, 18}, {1169, 755}}";
+		};
+	};
+	4CA0FE490FD4491100F488C2 /* ArchiveHelper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1110, 627}}";
+			sepNavSelRange = "{940, 0}";
+			sepNavVisRange = "{0, 952}";
+		};
+	};
+	4CA0FF5B0FD5A3EB00F488C2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CA0FCD60FD1D24400F488C2 /* Timepoint.m */;
+		name = "Timepoint.m: 45";
+		rLen = 0;
+		rLoc = 1005;
+		rType = 0;
+		vrLen = 1141;
+		vrLoc = 0;
+	};
+	4CF0013D10687C8100302A03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4CA0FCD50FD1D24400F488C2 /* Timepoint.h */;
+		name = "Timepoint.h: 19";
+		rLen = 46;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* MakeTimepointsDatabaseFromXML */ = {
+		activeExec = 0;
+		executables = (
+			4CA0FBAE0FCF0DED00F488C2 /* MakeTimepointsDatabaseFromXML */,
+		);
+	};
+}
